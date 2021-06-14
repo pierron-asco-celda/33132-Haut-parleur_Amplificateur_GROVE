@@ -27,7 +27,7 @@ Si vous souhaitez modifier l’intensité du son émis par le haut-parleur, réf
 
 # RESSOURCES À TÉLÉCHARGER :
 
-Ressource utilisation : [LM386](https://github.com/pierron-asco-celda/33131-Buzzer_GROVE/blob/main/src/Datasheet_S9013.pdf)
+Ressource utilisation : [LM386](https://github.com/pierron-asco-celda/33132-Haut-parleur_Amplificateur_GROVE/blob/main/src/Datasheet_LM386.pdf)
 
 # Exemple :
 ### Arduino / C++
